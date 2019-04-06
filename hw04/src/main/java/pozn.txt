@@ -1,0 +1,11 @@
+dva zasobniky stack 
+
+zeleny pro n
+cerveny pro n+1
+
+do zelenyho pridavam kdyz nezvysim o 1 , kdyz do zelenyho marknu jako visited
+a do cervenyho kdyz zvysim o 1
+
+a polluju z zelenyho a kdyz zeleny bude prazdny tak do zelelnyho dam cerveny a cerveny bude prazdny, tedy kdyz presypavam tak kazdy node dam jako visited
+
+prcam na navstiveny
